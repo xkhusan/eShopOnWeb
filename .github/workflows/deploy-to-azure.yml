@@ -18,7 +18,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_RESOURCE_GROUP: rg-eshop-assessment
+  AZURE_RESOURCE_GROUP: mssqlserver-cosmos-db
   AZURE_LOCATION: eastus
   ENVIRONMENT_NAME: dev
 
